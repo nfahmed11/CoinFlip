@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoinFlip/static/css/main.86453306.css",
+    "main.js": "/CoinFlip/static/js/main.2ec19d37.js",
+    "static/js/787.27dc3896.chunk.js": "/CoinFlip/static/js/787.27dc3896.chunk.js",
+    "index.html": "/CoinFlip/index.html",
+    "main.86453306.css.map": "/CoinFlip/static/css/main.86453306.css.map",
+    "main.2ec19d37.js.map": "/CoinFlip/static/js/main.2ec19d37.js.map",
+    "787.27dc3896.chunk.js.map": "/CoinFlip/static/js/787.27dc3896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86453306.css",
+    "static/js/main.2ec19d37.js"
+  ]
+}
